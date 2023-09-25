@@ -1,0 +1,190 @@
+OrderId,Date,CustomerId,ProductId,Quantity,UnitPrice,TotalPrice,OrderSource
+1,2023-01-01,Cust_001,Prod_101,3,25,75,Facebook
+2,2023-01-01,Cust_002,Prod_102,2,30,60,Instagram
+3,2023-01-02,Cust_003,Prod_101,1,25,25,TikTok
+4,2023-01-02,Cust_004,Prod_103,4,20,80,Instagram
+5,2023-01-03,Cust_005,Prod_102,2,30,60,Facebook
+6,2023-01-03,Cust_006,Prod_101,1,25,25,Instagram
+7,2023-01-04,Cust_007,Prod_103,3,20,60,TikTok
+8,2023-01-04,Cust_008,Prod_102,2,30,60,Facebook
+9,2023-01-05,Cust_009,Prod_101,1,25,25,Instagram
+10,2023-01-05,Cust_010,Prod_104,5,15,75,TikTok
+11,2023-01-06,Cust_011,Prod_103,2,20,40,Instagram
+12,2023-01-06,Cust_012,Prod_101,1,25,25,Facebook
+13,2023-01-07,Cust_013,Prod_102,3,30,90,Instagram
+14,2023-01-07,Cust_014,Prod_101,1,25,25,TikTok
+15,2023-01-08,Cust_015,Prod_105,4,18,72,Facebook
+16,2023-01-08,Cust_016,Prod_103,2,20,40,Instagram
+17,2023-01-09,Cust_017,Prod_101,1,25,25,Instagram
+18,2023-01-09,Cust_018,Prod_102,3,30,90,TikTok
+19,2023-01-10,Cust_019,Prod_103,2,20,40,Facebook
+20,2023-01-10,Cust_020,Prod_101,1,25,25,Instagram
+21,2023-01-11,Cust_021,Prod_106,2,22,44,Instagram
+22,2023-01-11,Cust_022,Prod_102,3,30,90,TikTok
+23,2023-01-12,Cust_023,Prod_101,1,25,25,Facebook
+24,2023-01-12,Cust_024,Prod_104,2,15,30,Instagram
+25,2023-01-13,Cust_025,Prod_102,3,30,90,Instagram
+26,2023-01-13,Cust_026,Prod_101,1,25,25,TikTok
+27,2023-01-14,Cust_027,Prod_103,2,20,40,Facebook
+28,2023-01-14,Cust_028,Prod_102,3,30,90,Instagram
+29,2023-01-15,Cust_029,Prod_105,4,18,72,Instagram
+30,2023-01-15,Cust_030,Prod_101,1,25,25,TikTok
+31,2023-01-16,Cust_031,Prod_102,3,30,90,Facebook
+32,2023-01-16,Cust_032,Prod_103,2,20,40,Instagram
+33,2023-01-17,Cust_033,Prod_101,1,25,25,Instagram
+34,2023-01-17,Cust_034,Prod_102,3,30,90,TikTok
+35,2023-01-18,Cust_035,Prod_103,2,20,40,Facebook
+36,2023-01-18,Cust_036,Prod_101,1,25,25,Instagram
+37,2023-01-19,Cust_037,Prod_106,2,22,44,Instagram
+38,2023-01-19,Cust_038,Prod_102,3,30,90,TikTok
+39,2023-01-20,Cust_039,Prod_101,1,25,25,Facebook
+40,2023-01-20,Cust_040,Prod_104,2,15,30,Instagram
+41,2023-01-21,Cust_041,Prod_102,3,30,90,Instagram
+42,2023-01-21,Cust_042,Prod_101,1,25,25,TikTok
+43,2023-01-22,Cust_043,Prod_103,2,20,40,Facebook
+44,2023-01-22,Cust_044,Prod_102,3,30,90,Instagram
+45,2023-01-23,Cust_045,Prod_105,4,18,72,Instagram
+46,2023-01-23,Cust_046,Prod_101,1,25,25,TikTok
+47,2023-01-24,Cust_047,Prod_102,3,30,90,Facebook
+48,2023-01-24,Cust_048,Prod_103,2,20,40,Instagram
+49,2023-01-25,Cust_049,Prod_101,1,25,25,Instagram
+50,2023-01-25,Cust_050,Prod_102,3,30,90,TikTok
+51,2023-01-26,Cust_051,Prod_103,2,20,40,Facebook
+52,2023-01-26,Cust_052,Prod_101,1,25,25,Instagram
+53,2023-01-27,Cust_053,Prod_106,2,22,44,Instagram
+54,2023-01-27,Cust_054,Prod_102,3,30,90,TikTok
+55,2023-01-28,Cust_055,Prod_101,1,25,25,Facebook
+56,2023-01-28,Cust_056,Prod_104,2,15,30,Instagram
+57,2023-01-29,Cust_057,Prod_102,3,30,90,Instagram
+58,2023-01-29,Cust_058,Prod_101,1,25,25,TikTok
+59,2023-01-30,Cust_059,Prod_103,2,20,40,Facebook
+60,2023-01-30,Cust_060,Prod_102,3,30,90,Instagram
+61,2023-01-31,Cust_061,Prod_105,4,18,72,Instagram
+62,2023-01-31,Cust_062,Prod_101,1,25,25,TikTok
+
+OrderId	Date	CustomerId	ProductId	Quantity	UnitPrice	TotalPrice	OrderSource
+63	2023-02-01	Cust_063	Prod_101	3	25	105	Facebook
+64	2023-02-01	Cust_064	Prod_102	2	30	70	Instagram
+65	2023-02-02	Cust_065	Prod_101	1	25	35	TikTok
+66	2023-02-02	Cust_066	Prod_103	4	20	100	Instagram
+67	2023-02-03	Cust_067	Prod_102	2	30	70	Facebook
+68	2023-02-03	Cust_068	Prod_101	1	25	35	Instagram
+69	2023-02-04	Cust_069	Prod_103	3	20	70	TikTok
+70	2023-02-04	Cust_070	Prod_102	2	30	70	Facebook
+71	2023-02-05	Cust_071	Prod_101	1	25	35	Instagram
+72	2023-02-05	Cust_072	Prod_104	5	15	85	TikTok
+73	2023-02-06	Cust_073	Prod_103	2	20	60	Instagram
+74	2023-02-06	Cust_074	Prod_101	1	25	35	Facebook
+75	2023-02-07	Cust_075	Prod_102	3	30	100	Instagram
+76	2023-02-07	Cust_076	Prod_101	1	25	35	TikTok
+77	2023-02-08	Cust_077	Prod_105	4	18	82	Facebook
+78	2023-02-08	Cust_078	Prod_103	2	20	60	Instagram
+79	2023-02-09	Cust_079	Prod_101	1	25	35	Instagram
+80	2023-02-09	Cust_080	Prod_102	3	30	100	TikTok
+81	2023-02-10	Cust_081	Prod_103	2	20	60	Facebook
+82	2023-02-10	Cust_082	Prod_101	1	25	35	Instagram
+83	2023-02-11	Cust_083	Prod_106	2	22	54	Instagram
+84	2023-02-11	Cust_084	Prod_102	3	30	100	TikTok
+85	2023-02-12	Cust_085	Prod_101	1	25	35	Facebook
+86	2023-02-12	Cust_086	Prod_104	2	15	40	Instagram
+87	2023-02-13	Cust_087	Prod_102	3	30	100	Instagram
+88	2023-02-13	Cust_088	Prod_101	1	25	35	TikTok
+89	2023-02-14	Cust_089	Prod_103	2	20	60	Facebook
+90	2023-02-14	Cust_090	Prod_102	3	30	100	Instagram
+91	2023-02-15	Cust_091	Prod_105	4	18	92	Instagram
+92	2023-02-15	Cust_092	Prod_101	1	25	35	TikTok
+93	2023-02-16	Cust_093	Prod_102	3	30	100	Facebook
+94	2023-02-16	Cust_094	Prod_103	2	20	60	Instagram
+95	2023-02-17	Cust_095	Prod_101	1	25	35	Instagram
+96	2023-02-17	Cust_096	Prod_102	3	30	100	TikTok
+97	2023-02-18	Cust_097	Prod_103	2	20	60	Facebook
+98	2023-02-18	Cust_098	Prod_101	1	25	35	Instagram
+99	2023-02-19	Cust_099	Prod_106	2	22	54	Instagram
+100	2023-02-19	Cust_100	Prod_102	3	30	100	TikTok
+101	2023-02-20	Cust_101	Prod_101	1	25	35	Facebook
+102	2023-02-20	Cust_102	Prod_104	2	15	40	Instagram
+103	2023-02-21	Cust_103	Prod_102	3	30	100	Instagram
+104	2023-02-21	Cust_104	Prod_101	1	25	35	TikTok
+105	2023-02-22	Cust_105	Prod_103	2	20	60	Facebook
+106	2023-02-22	Cust_106	Prod_102	3	30	100	Instagram
+107	2023-02-23	Cust_107	Prod_105	4	18	92	Instagram
+108	2023-02-23	Cust_108	Prod_101	1	25	35	TikTok
+109	2023-02-24	Cust_109	Prod_102	3	30	100	Facebook
+110	2023-02-24	Cust_110	Prod_103	2	20	60	Instagram
+111	2023-02-25	Cust_111	Prod_101	1	25	35	Instagram
+112	2023-02-25	Cust_112	Prod_102	3	30	100	TikTok
+113	2023-02-26	Cust_113	Prod_103	2	20	60	Facebook
+114	2023-02-26	Cust_114	Prod_101	1	25	35	Instagram
+115	2023-02-27	Cust_115	Prod_106	2	22	54	Instagram
+116	2023-02-27	Cust_116	Prod_102	3	30	100	TikTok
+117	2023-02-28	Cust_117	Prod_101	1	25	35	Facebook
+118	2023-02-28	Cust_118	Prod_104	2	15	40	Instagram
+
+
+
+
+
+
+OrderId	Date	CustomerId	ProductId	Quantity	UnitPrice	TotalPrice	OrderSource
+119	2023-03-01	Cust_119	Prod_101	3	25	75	Facebook
+120	2023-03-01	Cust_120	Prod_102	2	30	60	Instagram
+121	2023-03-02	Cust_121	Prod_101	1	25	25	TikTok
+122	2023-03-02	Cust_122	Prod_103	4	20	80	Instagram
+123	2023-03-03	Cust_123	Prod_102	2	30	60	Facebook
+124	2023-03-03	Cust_124	Prod_101	1	25	25	Instagram
+125	2023-03-04	Cust_125	Prod_103	3	20	60	TikTok
+126	2023-03-04	Cust_126	Prod_102	2	30	60	Facebook
+127	2023-03-05	Cust_127	Prod_101	1	25	25	Instagram
+128	2023-03-05	Cust_128	Prod_104	5	15	75	TikTok
+129	2023-03-06	Cust_129	Prod_103	2	20	40	Instagram
+130	2023-03-06	Cust_130	Prod_101	1	25	25	Facebook
+131	2023-03-07	Cust_131	Prod_102	3	30	90	Instagram
+132	2023-03-07	Cust_132	Prod_101	1	25	25	TikTok
+133	2023-03-08	Cust_133	Prod_105	4	18	72	Facebook
+134	2023-03-08	Cust_134	Prod_103	2	20	40	Instagram
+135	2023-03-09	Cust_135	Prod_101	1	25	25	Instagram
+136	2023-03-09	Cust_136	Prod_102	3	30	90	TikTok
+137	2023-03-10	Cust_137	Prod_103	2	20	40	Facebook
+138	2023-03-10	Cust_138	Prod_101	1	25	25	Instagram
+139	2023-03-11	Cust_139	Prod_106	2	22	44	Instagram
+140	2023-03-11	Cust_140	Prod_102	3	30	90	TikTok
+141	2023-03-12	Cust_141	Prod_101	1	25	25	Facebook
+142	2023-03-12	Cust_142	Prod_104	2	15	30	Instagram
+143	2023-03-13	Cust_143	Prod_102	3	30	90	Instagram
+144	2023-03-13	Cust_144	Prod_101	1	25	25	TikTok
+145	2023-03-14	Cust_145	Prod_103	2	20	40	Facebook
+146	2023-03-14	Cust_146	Prod_102	3	30	90	Instagram
+147	2023-03-15	Cust_147	Prod_105	4	18	72	Instagram
+148	2023-03-15	Cust_148	Prod_101	1	25	25	TikTok
+149	2023-03-16	Cust_149	Prod_102	3	30	90	Facebook
+150	2023-03-16	Cust_150	Prod_103	2	20	40	Instagram
+151	2023-03-17	Cust_151	Prod_101	1	25	25	Instagram
+152	2023-03-17	Cust_152	Prod_102	3	30	90	TikTok
+153	2023-03-18	Cust_153	Prod_103	2	20	40	Facebook
+154	2023-03-18	Cust_154	Prod_101	1	25	25	Instagram
+155	2023-03-19	Cust_155	Prod_106	2	22	44	Instagram
+156	2023-03-19	Cust_156	Prod_102	3	30	90	TikTok
+157	2023-03-20	Cust_157	Prod_101	1	25	25	Facebook
+158	2023-03-20	Cust_158	Prod_104	2	15	30	Instagram
+159	2023-03-21	Cust_159	Prod_102	3	30	90	Instagram
+160	2023-03-21	Cust_160	Prod_101	1	25	25	TikTok
+161	2023-03-22	Cust_161	Prod_103	2	20	40	Facebook
+162	2023-03-22	Cust_162	Prod_102	3	30	90	Instagram
+163	2023-03-23	Cust_163	Prod_105	4	18	72	Instagram
+164	2023-03-23	Cust_164	Prod_101	1	25	25	TikTok
+165	2023-03-24	Cust_165	Prod_102	3	30	90	Facebook
+166	2023-03-24	Cust_166	Prod_103	2	20	40	Instagram
+167	2023-03-25	Cust_167	Prod_101	1	25	25	Instagram
+168	2023-03-25	Cust_168	Prod_102	3	30	90	TikTok
+169	2023-03-26	Cust_169	Prod_103	2	20	40	Facebook
+170	2023-03-26	Cust_170	Prod_101	1	25	25	Instagram
+171	2023-03-27	Cust_171	Prod_106	2	22	44	Instagram
+172	2023-03-27	Cust_172	Prod_102	3	30	90	TikTok
+173	2023-03-28	Cust_173	Prod_101	1	25	25	Facebook
+174	2023-03-28	Cust_174	Prod_104	2	15	30	Instagram
+175	2023-03-29	Cust_175	Prod_102	3	30	90	Instagram
+176	2023-03-29	Cust_176	Prod_101	1	25	25	TikTok
+177	2023-03-30	Cust_177	Prod_103	2	20	40	Facebook
+178	2023-03-30	Cust_178	Prod_102	3	30	90	Instagram
+179	2023-03-31	Cust_179	Prod_105	4	18	72	Instagram
+180	2023-03-31	Cust_180	Prod_101	1	25	25	TikTok
